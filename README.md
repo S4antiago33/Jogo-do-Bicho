@@ -1,5 +1,3 @@
-📄 README.md
-
 # 🐾 Jogo do Bicho em Java
 
 Este projeto é uma implementação em Java do tradicional **Jogo do Bicho**, uma loteria popular brasileira. Desenvolvido com a estrutura do Maven, o projeto visa simular as apostas e sorteios típicos desse jogo.
